@@ -4,4 +4,5 @@
 - no backed in demonstration
 
 ## Deployed Site  
-https://arronbeale.github.io/react-beales-meals/
+[Site](https://arronbeale.github.io/react-beales-meals/)  
+(Ctrl + click to open in new tab)
