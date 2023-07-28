@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-beales-meals/static/css/main.ed543fcb.css",
-    "main.js": "/react-beales-meals/static/js/main.eb6dbb18.js",
+    "main.js": "/react-beales-meals/static/js/main.4e4293f6.js",
     "static/media/meals.png": "/react-beales-meals/static/media/meals.876bb5f66c67fec13f15.png",
     "index.html": "/react-beales-meals/index.html",
     "main.ed543fcb.css.map": "/react-beales-meals/static/css/main.ed543fcb.css.map",
-    "main.eb6dbb18.js.map": "/react-beales-meals/static/js/main.eb6dbb18.js.map"
+    "main.4e4293f6.js.map": "/react-beales-meals/static/js/main.4e4293f6.js.map"
   },
   "entrypoints": [
     "static/css/main.ed543fcb.css",
-    "static/js/main.eb6dbb18.js"
+    "static/js/main.4e4293f6.js"
   ]
 }
